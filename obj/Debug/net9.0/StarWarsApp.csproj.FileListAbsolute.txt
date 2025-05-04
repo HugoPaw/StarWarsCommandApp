@@ -1,0 +1,15 @@
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\bin\Debug\net9.0\StarWarsApp.exe
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\bin\Debug\net9.0\StarWarsApp.deps.json
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\bin\Debug\net9.0\StarWarsApp.runtimeconfig.json
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\bin\Debug\net9.0\StarWarsApp.dll
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\bin\Debug\net9.0\StarWarsApp.pdb
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\obj\Debug\net9.0\StarWarsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\obj\Debug\net9.0\StarWarsApp.AssemblyInfoInputs.cache
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\obj\Debug\net9.0\StarWarsApp.AssemblyInfo.cs
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\obj\Debug\net9.0\StarWarsApp.csproj.CoreCompileInputs.cache
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\obj\Debug\net9.0\StarWarsApp.sourcelink.json
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\obj\Debug\net9.0\StarWarsApp.dll
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\obj\Debug\net9.0\refint\StarWarsApp.dll
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\obj\Debug\net9.0\StarWarsApp.pdb
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\obj\Debug\net9.0\StarWarsApp.genruntimeconfig.cache
+C:\Users\hpawl\Desktop\StarWarsCommand\StarWarsApp\obj\Debug\net9.0\ref\StarWarsApp.dll
